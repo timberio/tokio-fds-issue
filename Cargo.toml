@@ -10,3 +10,4 @@ edition = "2018"
 tokio-compat = { version = "0.1", features = ["rt-full"], path = "../tokio-compat" }
 futures01 = { version = "0.1", package = "futures" }
 tokio01 = { version = "0.1", package = "tokio" }
+tokio02 = { version = "0.2", package = "tokio" }
